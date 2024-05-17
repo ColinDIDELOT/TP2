@@ -1,8 +1,32 @@
 [
-    {"id": 1, "title": "Musilac en 2024 Montagne", "dateActu" : "10/07/2024", "type" : "electro"},
-    {"id": 2, "title": "Nouvel album Justice", "dateActu" : "24/04/2024", "type" : "electro"},
-    {"id": 4, "title": "Rockenseine en 2024", "dateActu" : "01/05/2024", "type" : "rock"},
-    {"id": 45, "title": "Festival Jazz Chambery en 2024", "dateActu" : "01/05/2024", "type" : "jazz"},
-    {"id": 3, "title": "Rockenseine en 2022", "dateActu" : "01/05/2022", "type" : "rock"},
-    {"id": 18, "title": "Rockenseine en 2021", "dateActu" : "01/05/2021", "type" : "rock"}
+    {
+        "id": 2,
+        "title": "Nouvel album Justice",
+        "dateActu": "24/04/2024",
+        "type": "electro"
+    },
+    {
+        "id": 4,
+        "title": "Rockenseine en 2024",
+        "dateActu": "01/05/2024",
+        "type": "rock"
+    },
+    {
+        "id": 45,
+        "title": "Festival Jazz Chambery en 2024",
+        "dateActu": "01/05/2024",
+        "type": "jazz"
+    },
+    {
+        "id": 3,
+        "title": "Rockenseine en 2022",
+        "dateActu": "01/05/2022",
+        "type": "rock"
+    },
+    {
+        "id": 18,
+        "title": "Rockenseine en 2021",
+        "dateActu": "01/05/2021",
+        "type": "rock"
+    }
 ]
